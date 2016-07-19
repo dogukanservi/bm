@@ -18,18 +18,18 @@ toc:
 <div class="home-grid">
 	<a href="/getting-started/" class="section">
 		<img src="/images/icons/mining.png"> 
-		<div class="section-title">New to Mining?</div> 
-		<div class="section-view">Get started ›</div> 
+		<div class="section-title">Madencilikte yeni misin?</div> 
+		<div class="section-view">Başlayalım ›</div> 
 	</a>
 	<a href="/bitcoin-mining-hardware/" class="section">
 		<img src="/images/icons/mining2.png"> 
-		<div class="section-title">Mining Hardware</div> 
-		<div class="section-view">Learn More ›</div> 
+		<div class="section-title">Madencilik Donanımı</div> 
+		<div class="section-view">Daha fazlasını öğren ›</div> 
 	</a>
 	<a href="/best-bitcoin-cloud-mining-contract-reviews/" class="section">
 		<img src="/images/icons/cloud.png"> 
-		<div class="section-title">Cloud Mining</div> 
-		<div class="section-view">Learn More ›</div> 
+		<div class="section-title">Bulut(Cloud) Madenciliği</div> 
+		<div class="section-view">Daha fazlasını öğren ›</div> 
 	</a>
 </div>
 
@@ -47,7 +47,7 @@ toc:
 <img class="icon-home" alt="bitcoin güvenlidir" src="/images/icons/icon-big-links.png">
 <h2>Linkler</h2>
 <ul>
-	<li><a href="https://www.weusecoins.com/" target="_blank">We Use Coins</a> - Kripto-para birimleri hakkında her şeyi öğrenin.<br></li>
+	<li><a href="https://www.weusecoins.com/" target="_blank">Bitcoin kullanıyoruz.</a> - Kripto-para birimleri hakkında her şeyi öğrenin.<br></li>
 	<li><a href="https://www.reddit.com/r/Bitcoin/" target="_blank">Bitcoin Haberleri</a> - Bitcoin topluluğunun haberleri öğrendiği yer.<br></li>
 	<li><a href="http://www.bitcoin.kn">Bitcoin Bilgiler Ses Kayıtları</a> - Bitcoin dünyasındaki en ünlü insanlarla röportajlar.</li>
 </ul>
